@@ -40,8 +40,8 @@ model.fit(X_train, y_train)
 - Can be simulated by splicing together multiple files from different network points.
 - Can be simulated by running a watcher or packet grabber for a long time.
 # Congestion
-- Multiple Background Tasks such as speed tests or pings.
-- Brute Force Attacks
+- Multiple Background Tasks such as speed tests or pings. NetUnicorn has both in their library. 
+- Brute Force Attacks such as bruteforce_ssh from netunicorn. 
 - Grabbing very large files
 
   
